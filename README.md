@@ -23,9 +23,6 @@ STORM MULTI-ICO CONVERTER — специализированная утилит�
 1. Скачайте инсталлятор `STORM_MULTI_ICO_CONVERTER_<версия>_Setup.exe` или архив `STORM_MULTI_ICO_CONVERTER_<версия>.zip` со страницы **Releases** на GitHub.
 2. Запустите программу.
 
-## **Безопасность и цифровые подписи**
-Подписано доверенным сертификатом **CN=STORM SOFT, O=STORM EDEN** (SHA-256 Authenticode).
-
 ## **Благодарности**
 - **James Jackson-South и команда SixLabors** — за библиотеку ImageSharp.
 - **Команда Google Skia** — за высокопроизводительный движок 2D-графики.
