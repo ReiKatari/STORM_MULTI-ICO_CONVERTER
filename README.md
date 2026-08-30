@@ -1,10 +1,10 @@
-# STORM MULTI-ICO CONVERTER
+<h1 align="center">STORM MULTI-ICO CONVERTER</h1>
 
 ## **О проекте**
 STORM MULTI-ICO CONVERTER — специализированная утилита для конвертации графических файлов (PNG, JPEG, SVG, WebP, BMP) в многослойные иконки Windows (ICO) и macOS (ICNS). Программа автоматически генерирует все стандартные размеры иконок с сохранением альфа-канала и качественной бикубической фильтрацией.
 
 ## **Происхождение и форки**
-Оригинальная разработка ReiKatari.
+Оригинальная разработка в составе экосистемы STORM SOFT.
 
 ## **Технологический стек**
 - **Языки программирования**: C# (.NET 9.0)
@@ -20,15 +20,12 @@ STORM MULTI-ICO CONVERTER — специализированная утилит�
 - **Операционные системы**: Windows 10, Windows 11 (x64)
 
 ## **Установка и запуск**
-1. Скачайте релиз со страницы **Releases** на GitHub.
-2. Запустите `STORM MULTI-ICO CONVERTER.exe`.
+1. Скачайте инсталлятор `STORM_MULTI_ICO_CONVERTER_<версия>_Setup.exe` или архив `STORM_MULTI_ICO_CONVERTER_<версия>.zip` со страницы **Releases** на GitHub.
+2. Запустите программу.
 
 ## **Безопасность и цифровые подписи**
 Подписано доверенным сертификатом **CN=STORM SOFT, O=STORM EDEN** (SHA-256 Authenticode).
 
-## **Авторы и лицензия**
-- **Автор проекта**: ReiKatari
-- **Лицензия**: MIT License
-
 ## **Благодарности**
-- **Команда SixLabors** — за библиотеку ImageSharp.
+- **James Jackson-South и команда SixLabors** — за библиотеку ImageSharp.
+- **Команда Google Skia** — за высокопроизводительный движок 2D-графики.
